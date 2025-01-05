@@ -1,4 +1,3 @@
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tensho1026&layout=compact)
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tensho1026&layout=compact&theme=radical)
 ## GitHub Streak
