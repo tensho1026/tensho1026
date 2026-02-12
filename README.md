@@ -1,18 +1,29 @@
-<img src="https://git-game.vercel.app/api/readme/tensho1026" alt="Git-RPG Status" />
+<div align="center">
 
+  <!-- Git-RPG -->
+  <img width="90%" src="https://git-game.vercel.app/api/readme/tensho1026" alt="Git-RPG Status" />
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensho1026&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <br/><br/>
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tensho1026&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <!-- Profile Views -->
+<a href="https://github.com/tensho1026">
+  <img width="220" src="https://komarev.com/ghpvc/?username=tensho1026&style=for-the-badge" />
+</a>
 
-<img src="https://ghprofiletrophy.neko-room.com/?username=tensho1026&theme=onedark&column=-1" />
+  <br/><br/>
 
+  <!-- Profile Details -->
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tensho1026&theme=gruvbox" />
 
+  <br/><br/>
 
+  <!-- Language & Stats -->
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tensho1026&theme=gruvbox" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tensho1026&theme=gruvbox" />
 
+  <br/><br/>
 
+  <!-- Trophy -->
+  <img width="90%" src="https://ghprofiletrophy.neko-room.com/?username=tensho1026&theme=onedark&column=7" />
 
-
-
-
-
+</div>
