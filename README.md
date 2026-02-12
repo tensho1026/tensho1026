@@ -5,10 +5,6 @@
 
   <br/><br/>
 
-  <!-- Profile Views -->
-<a href="https://github.com/tensho1026">
-  <img width="220" src="https://komarev.com/ghpvc/?username=tensho1026&style=for-the-badge" />
-</a>
 
   <br/><br/>
 
